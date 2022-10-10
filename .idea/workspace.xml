@@ -1,31 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63f576e5-53f2-46dd-ac95-2b4b1a82231d" name="Changes" comment="Added README.md">
+    <list default="true" id="63f576e5-53f2-46dd-ac95-2b4b1a82231d" name="Changes" comment="A shy skeleton slowly exits the cupboard.">
+      <change afterPath="$PROJECT_DIR$/src/car_race/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car_race/vehicles/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car_race/vehicles/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car_race/vehicles/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_race/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/car_race/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_race/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/car_race/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_race/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/car_race/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_race/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/car_race/util/RandomHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_race/util/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/car_race/vehicles/Vehicles.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-17.0.4.1/lib/src.zip!/java.base/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FcUg58k7sjZCv4qpA6vus8tvxn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664792488992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Race class and packaging to car_race">
+      <created>1664792892670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664792892670</updated>
+    </task>
+    <task id="LOCAL-00004" summary="A shy skeleton slowly exits the cupboard.">
+      <created>1664798073639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664798073639</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +106,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IntelliJ start" />
     <MESSAGE value="Added README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README.md" />
+    <MESSAGE value="Added Race class and packaging to car_race" />
+    <MESSAGE value="A shy skeleton slowly exits the cupboard." />
+    <option name="LAST_COMMIT_MESSAGE" value="A shy skeleton slowly exits the cupboard." />
   </component>
 </project>
